@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ishanka Charuka
+#  Hi, I'm Ishanka Charuka
 
 **Software Engineering Student | Full-Stack Developer | Tech Enthusiast**
 
