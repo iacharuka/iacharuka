@@ -9,14 +9,14 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 I'm an **innovative Software Engineering student** at *NSBM Green University (2022–2026)* with a passion for **building scalable, user-centric applications**.  
 I enjoy working on **web & mobile development**, experimenting with **AI tools**, and constantly learning new technologies.  
 
-🌱 **Currently exploring:** Cloud Architecture & AI Integration  
-💼 **Looking for:** Internship opportunities in Software Development  
-⚡ **Fun fact:** I love designing modern UIs that merge creativity with functionality  
+ **Currently exploring:** Cloud Architecture & AI Integration  
+ **Looking for:** Internship opportunities in Software Development  
+ **Fun fact:** I love designing modern UIs that merge creativity with functionality  
 
 ---
 
