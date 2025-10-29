@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ishanka Charuka  
 
-🎓 **Software Engineering Student | 💻 Full-Stack Developer | 🚀 Tech Enthusiast**  
+ **Software Engineering Student |  Full-Stack Developer |  Tech Enthusiast**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ishanka-charuka-b267b6255)
 [![GitHub](https://img.shields.io/badge/GitHub-iacharuka-black?logo=github)](https://github.com/iacharuka)
