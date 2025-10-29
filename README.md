@@ -41,7 +41,7 @@ I enjoy working on **web & mobile development**, experimenting with **AI tools**
 
 ## 🌟 Featured Projects  
 
-### 🧭 [YAN Travel](https://github.com/iacharuka/YAN-travel)  
+###  [YAN Travel](https://github.com/iacharuka/YAN-travel)  
 > **Tourism & Travel Service Web Application**  
 - Showcases Sri Lankan travel destinations and packages  
 - User-friendly booking and inquiry system  
