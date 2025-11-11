@@ -103,9 +103,9 @@ I enjoy working on **web & mobile development**, experimenting with **AI tools**
 
 ## 📫 Let's Connect  
 
-💌 **Email:** [ishankacharuka4336@gmail.com](mailto:ishankacharuka4336@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ishanka-charuka-b267b6255](https://www.linkedin.com/in/ishanka-charuka-b267b6255)  
-🧭 **Portfolio:** [ishankacharuka.vercel.app](https://ishankacharuka.vercel.app)
+ **Email:** [ishankacharuka4336@gmail.com](mailto:ishankacharuka4336@gmail.com)  
+ **LinkedIn:** [linkedin.com/in/ishanka-charuka-b267b6255](https://www.linkedin.com/in/ishanka-charuka-b267b6255)  
+ **Portfolio:** [ishankacharuka.vercel.app](https://ishankacharuka.vercel.app)
 
 ---
 
